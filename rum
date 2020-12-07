@@ -1,1 +1,1 @@
-const movies = ["Four Rums"]; "Tonight's movie: " + movies[Math.floor(Math.random() * movies.length)];
+const movies = ["Panic Rum", "A Rum With A View", "Control Rum", "Enron: The Smartest Guys in the Rum", "The Waiting Rum", "Tommy Wiseau's The Rum", "Rum at the Top", "Rum Service", "Four Rums"]; "Tonight's movie: " + movies[Math.floor(Math.random() * movies.length)];

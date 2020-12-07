@@ -1,1 +1,1 @@
-var input = `$(query)`; if(input.substring(input.length-2, input.length) == 'er'){ input.substring(0, input.length-2) + "-er? I 'ardly know 'er!";}else{" "}
+if(input.substring(input.length-2, input.length) == 'er'){ input.substring(0, input.length-2) + "-er? I 'ardly know 'er!";}else{" "}
